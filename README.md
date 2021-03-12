@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Juniokoi
+- 👀 I’m interested in Front end development
+- 🌱 I’m currently learning ... Front end development
+- 💞️ I’m looking to collaborate on ...   Front end development
+- 📫 How to reach me ... Front end development :P
