@@ -78,7 +78,7 @@
 
 
 <!-- twitter visu API -->
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=juniokoi&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=juniokoi&show_reply=off&show_retweet=off&show_border=on&layout=wide">
 <!--  -->
 
 
