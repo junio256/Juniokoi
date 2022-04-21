@@ -14,9 +14,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniokoi&color=yellow" alt="Profile views" /> </p>
 <!--  -->
 
-- 🔥 Web Developer Student & Instructor focused on helping people start programming 
+- 🔥 Web Developer Student & Instructor focused on helping people start programming! 
 
-- 🔭 I’m currently working at building my own projects.
+- 🔭 I’m currently working on my own projects.
 
 - 👨‍💻 All of my projects are available here, on [Github](https://github.com/juniokoi)
 <!-- 
@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **KOI is not my real name 😜**
+- ⚡ Fun fact:: **KOI is not my real name 😜**
 
 <br><br>
 
@@ -78,7 +78,7 @@
 
 
 <!-- twitter visu API -->
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=juniokoi&layout=wide&show_reply=off&show_retweet=off" />
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=juniokoi&show_reply=off&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
 <!--  -->
 
 
