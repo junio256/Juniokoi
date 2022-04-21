@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniokoi&color=yellow" alt="Profile views" /> </p>
 <!--  -->
 
-- 🔥 Web Developer Student & Instructor focused on helping people start programming! 
+- 🔥 Web Development Student & Instructor focused on helping people start programming! 
 
 - 🔭 I’m currently working on my own projects.
 
