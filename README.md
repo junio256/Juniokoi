@@ -46,16 +46,16 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=juniokoi&show_icons=true&theme=vision-friendly-dark" alt="KOI's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniokoi&layout=compact&theme=vision-friendly-dark" alt="KOI's most languages"/>
+<p align="center">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=juniokoi&show_icons=true&theme=vision-friendly-dark" alt="KOI's stats"/>
+<img width="417em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniokoi&layout=compact&theme=vision-friendly-dark" alt="KOI's most languages"/>
 </p>
 
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
+<p align="center" style="background:yellow">
 <a href="https://codepen.io/juniokoi" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-juniokoi-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
@@ -76,11 +76,11 @@
 </p>
 
 
-
+<div align="center">
 <!-- twitter visu API -->
 <img src="https://github-readme-twitter.gazf.vercel.app/api?id=juniokoi&show_reply=off&show_retweet=off&show_border=on&layout=wide">
 <!--  -->
-
+</div>
 
 <!--
 Old template
