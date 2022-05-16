@@ -47,8 +47,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=juniokoi&show_icons=true&theme=vision-friendly-dark" alt="KOI's stats"/>
-<img width="417em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniokoi&layout=compact&theme=vision-friendly-dark" alt="KOI's most languages"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api?username=juniokoi&show_icons=true&theme=dracula&hide_rank=true&layout=compact" alt="KOI's stats"/>
+<img width="417em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniokoi&layout=compact&theme=dracula" alt="KOI's most languages"/>
 </p>
 
 <br><br>
