@@ -76,7 +76,7 @@
 </p>
 
 
-<div align="center">
+<div align="left">
 <!-- twitter visu API -->
 <img src="https://github-readme-twitter.gazf.vercel.app/api?id=juniokoi&show_reply=off&show_retweet=off&show_border=on&layout=wide">
 <!--  -->
