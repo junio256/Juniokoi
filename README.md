@@ -7,7 +7,7 @@
 <!--  -->
 
 <!-- Header containg a salute -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Junio KOI</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Junio KOI</h1>
 <!--  -->
 
 <!-- How many views I have on my profile -->
