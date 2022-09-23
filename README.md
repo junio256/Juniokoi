@@ -24,8 +24,6 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact:: **KOI is not my real name 😜**
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
