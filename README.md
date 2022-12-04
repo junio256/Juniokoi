@@ -8,11 +8,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniokoi&color=yellow" alt="Profile views" /> </p>
 <!--  -->
 
-- ✨ Web Developer focused on frontend
+- ✨ Frontend Developer
 
-- 👨‍💻 I have a portfolio, available [here](https://juniokoi.vercel.app)
+- 👨‍💻 Look at my [portfolio here](https://juniokoi.vercel.app)
+- 🔭 I’m currently working on [Potodo](https://potodo.live), an open-source Pomodoro app
 
-- 💬 Ask me about **Angular, Java, SCSS, React, SQL & NoSQL**
+🌱 I’m currently learning Vue and Javascript's deeper concepts
 
 <br><br>
 
