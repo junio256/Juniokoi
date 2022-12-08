@@ -2,7 +2,9 @@
 
 <!-- Header containg a salute -->
 <div align=center>
-<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Junio Koi</h1>
+<h1>Hi ,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
+  Junio Koi here!
+</h1>
 <!--  -->
   <img src="https://komarev.com/ghpvc/?username=juniokoi&color=yellow" alt="Profile views" />
   
