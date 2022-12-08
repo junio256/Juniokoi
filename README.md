@@ -34,8 +34,3 @@ I'm a self-taught passionate FrontEnd developer from Brazil
 <img width="300em" src="https://github-readme-stats.vercel.app/api?username=juniokoi&show_icons=true&theme=dracula&hide_rank=true&layout=compact" alt="KOI's stats"/>
 <img width="417em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniokoi&layout=compact&theme=dracula" alt="KOI's most languages"/>
 </p> -->
-
-### Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juniokoi&repo=Potodo&theme=rose_pine)](https://github.com/juniokoi/Potodo)
-
-<br><br>
